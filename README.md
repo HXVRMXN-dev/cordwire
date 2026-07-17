@@ -44,12 +44,9 @@ exports.cordwire:GetPlayerGroups(src)
 
 swap `cordwire` for whatever you actually named the folder.
 
-## bugs/suggestions
+> [!NOTE]
 If you have any suggestions, bugs or any kind of issues, then make a issue on the repository.
 This section will be updated if I open a discord.
 
-## license
-
-GPLv3 for everything in this repo, MIT retained for the portions carried
-over from JaredScar's original Badger_Discord_API / DiscordAcePerms. see
-LICENSE, LICENSE-MIT and NOTICE.
+>[!CAUTION]
+This repository uses dual licenses, make sure to read them!
