@@ -1,0 +1,35 @@
+cordwire
+Copyright (C) 2026 HXVRMXN.dev
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program. If not, see <https://www.gnu.org/licenses/>.
+
+-----
+
+This resource is dual-licensed:
+
+  - Everything in this repository is licensed GPLv3 (see above), which
+    includes the config layout, the http queue, the ace-perm sync/override
+    logic, exports, and general changes.
+
+  - The original request/response patterns for talking to the Discord API
+    (role, member, guild and user lookups) trace back to JaredScar's
+    Badger_Discord_API and DiscordAcePerms, both MIT licensed. Those
+    portions remain available to you under the MIT terms reproduced in
+    LICENSE-MIT, in addition to the GPLv3 terms above. See NOTICE for the
+    specifics of what was carried over.
+
+If you got this file without LICENSE-MIT and NOTICE alongside it, you're
+missing part of the license, go find the original repo.
+
+

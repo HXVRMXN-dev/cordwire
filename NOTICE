@@ -1,0 +1,12 @@
+cordwire started as a rewrite of two resources by JaredScar, both MIT
+licensed:
+
+  - Badger_Discord_API  https://github.com/JaredScar/Badger_Discord_API
+  - DiscordAcePerms  https://github.com/JaredScar/DiscordAcePerms
+
+Original copyright notice, preserved as required by the MIT license:
+
+  Copyright (c) 2020 Jared Scarito
+
+Full MIT text is in LICENSE-MIT. Everything else in this repo is GPLv3,
+see LICENSE.
