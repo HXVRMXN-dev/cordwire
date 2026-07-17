@@ -23,7 +23,7 @@ swap `cordwire` for whatever you actually named the folder.
 - `Config.IgnoredRoles` — roles that get thrown out before perms or `/roles` ever see them
 - `Config.Roles[].override` — set true on something like "Muted" so it wipes every
   other match a player has, even roles they still technically hold
-- `Config.Command` — toggles the `/roles` and `sync` command, renameable
+- `Config.Command` and `Config.Sync`  — toggles the `/roles` and `sync` command, renameable
 
 ## exports
 
