@@ -50,3 +50,5 @@ This section will be updated if I open a discord.
 
 >[!CAUTION]
 This repository uses dual licenses, make sure to read them!
+
+![Views](https://komarev.com/ghpvc/?username=HXVRMXN-dev&repo=cordwire&color=blue)
