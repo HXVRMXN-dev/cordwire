@@ -50,7 +50,7 @@ Config.Roles = {
 	{ name = 'Muted', group = 'muted', override = true },
 }
 
--- lets a player type /roles (or whatever you rename it to) and see what
+-- lets a player type /roles (or whatever you rename it to) and see what roles they have currently
 Config.Command = {
 	enabled = true,
 	name    = 'roles',
