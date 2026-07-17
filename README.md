@@ -44,6 +44,9 @@ exports.cordwire:GetPlayerGroups(src)
 
 swap `cordwire` for whatever you actually named the folder.
 
+## bugs/suggestions
+If you have any suggestions, bugs or any kind of issues, then make a issue on the repository.
+This section will be updated if I open a discord.
 
 ## license
 
